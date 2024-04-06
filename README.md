@@ -1,1 +1,3 @@
-# Expense_Tracker_Flutter
+# Expense Tracker Flutter
+
+Flutter based application to track the expenses.
